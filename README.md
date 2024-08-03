@@ -1,6 +1,6 @@
-# School of Code (SOC) Learning Audit - End of Week 5
+# School of Code Learning Audit (End of Week 5) - Pieter Smith
 
-## Course modules and learning topics
+## Learning topics confidence evaluation
 
 ### On-boarding
 
