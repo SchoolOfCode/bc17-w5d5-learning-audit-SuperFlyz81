@@ -59,7 +59,7 @@
 - DOM selectors 🟢
 - Event listeners - button clicks, form submits, etc. 🟢
 - Fetch 🟢
-- Async JavaScript - including JavaScript promises 🔴
+- Async JavaScript and JavaScript promises 🔴
 - Async/Await 🔴
 
 ### Back-end engineering
@@ -108,29 +108,32 @@
 
 ## Learning plan and priorities
 
-Focus on the 🔴 red-rated topics first to fill in the gaps in your knowledge. After completing those, draw up a separate learning plan to research the 🟠 amber topics at your convenience.
+Focus on the 🔴 red-rated topics below first to fill in the gaps in your knowledge. After completing those, draw up a separate learning plan to research the 🟠 amber topics at your convenience.
 
-### Git and GitHub
+### 1. Git and GitHub
 
 - I have basic knowledge of the common Git commands. At least enough to allow me to do pair programming at the School of Code (SOC). However, I lack knowledge of Git merge conflict resolution. I also lack knowledge of the proper Git/GitHub flow that developers use daily (to avoid and fix merge conflicts).
 
-- **Learning resources**
-  - Syntax.fm Git fundamentals podcast: https://syntax.fm/show/286/git-fundamentals
-  - GitHub flow: https://docs.github.com/en/get-started/using-github/github-flow
-
-### Async JavaScript - including JavaScript promises
+### 2. Async JavaScript and JavaScript promises
 
 - I have a basic understanding of asynchronous JavaScript and JavaScript promises, but I struggle to retrieve values/data from resolved promises. I need to fill in the gaps in my knowledge of JavaScript promises and what they return when they resolve, reject, or error out. And how to access the values/data inside those resolved/rejected/errored promises.
 
-- **Learning resources**
+### 3. Async/Await
+
+- I understand the basic concepts behind async/await asynchronous JavaScript functions. However, I struggle to write proper syntax and use promise chaining inside async/await functions. And again, accessing the values/data returned by these "promisified" async/await functions does not come naturally at present.
+
+## Learning resources and completion tracking
+
+- **Git and GitHub**
+
+  - Syntax.fm Git fundamentals podcast: https://syntax.fm/show/286/git-fundamentals
+  - GitHub flow: https://docs.github.com/en/get-started/using-github/github-flow
+
+- **Async JavaScript and JavaScript promises**
 
   - Javascript.info - The Modern JavaScript Tutorial - Promise basics - https://javascript.info/promise-basics
   - Javascript.info - The Modern JavaScript Tutorial - Error handling with promises - https://javascript.info/promise-error-handling
 
-### Async/Await
-
-- I understand the basic concepts behind async/await asynchronous JavaScript functions. However, I struggle to write proper syntax and use promise chaining inside async/await functions. And again, accessing the values/data returned by these "promisified" async/await functions does not come naturally at present.
-
-- **Learning resources**
+- **Async/Await**
   - Javascript.info - The Modern JavaScript Tutorial - Async/await - https://javascript.info/async-await
   - Async + Await YouTube video by Wes Bos - https://www.youtube.com/watch?v=9YkUCxvaLEk
