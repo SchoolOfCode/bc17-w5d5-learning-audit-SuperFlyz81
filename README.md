@@ -1,6 +1,12 @@
 # School of Code Learning Audit (End of Week 5) - Pieter Smith
 
-## Learning topics confidence evaluation (Red, Amber, Green)
+## Ratings system - Red, Amber, Green
+
+🔴 Red - Topics that I have an incomplete understanding of.  
+🟠 Amber - Topics that I have a reasonable understanding of, but would like to research further.  
+🟢 Green - Topics that I have a reasonable understanding/working knowledge of.  
+
+## Learning topics confidence evaluation
 
 ### On-boarding
 
