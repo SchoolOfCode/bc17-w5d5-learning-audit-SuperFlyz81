@@ -108,19 +108,25 @@
 
 ## Learning plan and priorities
 
-Focus on the 🔴 red-rated topics below first to fill in the gaps in your knowledge. After completing those, draw up a separate learning plan to research the 🟠 amber topics at your convenience.
+Focus on the 🔴 red-rated topics first to fill in the gaps in your knowledge. After completing those, expand the learning plan below to list and research the 🟠 amber-rated topics at your convenience.
 
 ### 1. Git and GitHub
 
-- I have basic knowledge of the common Git commands. At least enough to allow me to do pair programming at the School of Code (SOC). However, I lack knowledge of Git merge conflict resolution. I also lack knowledge of the proper Git/GitHub flow that developers use daily (to avoid and fix merge conflicts).
+- I have basic knowledge of the common Git commands. At least enough to allow me to do pair programming at the School of Code (SOC).
+- However, I lack knowledge of Git merge conflict resolution.
+- I also lack knowledge of the proper Git/GitHub flow that developers use daily (to avoid and fix merge conflicts).
 
 ### 2. Async JavaScript and JavaScript promises
 
-- I have a basic understanding of asynchronous JavaScript and JavaScript promises, but I struggle to retrieve values/data from resolved promises. I need to fill in the gaps in my knowledge of JavaScript promises and what they return when they resolve, reject, or error out. And how to access the values/data inside those resolved/rejected/errored promises.
+- I have a basic understanding of asynchronous JavaScript and JavaScript promises, but I struggle to retrieve values/data from resolved promises.
+- I need to fill in the gaps in my knowledge of JavaScript promises and what they return when they resolve, reject, or error out.
+- And how to access the values/data inside those resolved/rejected/errored promises.
 
 ### 3. Async/Await
 
-- I understand the basic concepts behind async/await asynchronous JavaScript functions. However, I struggle to write proper syntax and use promise chaining inside async/await functions. And again, accessing the values/data returned by these "promisified" async/await functions does not come naturally at present.
+- I understand the basic concepts behind async/await asynchronous JavaScript functions.
+- However, I struggle to write proper syntax and use promise chaining inside async/await functions.
+- And again, accessing the values/data returned by these "promisified" async/await functions does not come naturally at present.
 
 ## Learning resources and completion tracking
 
