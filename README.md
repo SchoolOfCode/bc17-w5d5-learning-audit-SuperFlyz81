@@ -2,9 +2,9 @@
 
 ## Ratings system - Red, Amber, Green
 
-🔴 Red - Topics that I have an incomplete understanding of.  
+🔴 Red - Topics in which I have an incomplete understanding or gap in my knowledge.  
 🟠 Amber - Topics that I have a reasonable understanding of, but would like to research further.  
-🟢 Green - Topics that I have a reasonable understanding/working knowledge of.
+🟢 Green - Topics in which I have a reasonable understanding and working knowledge.  
 
 ## Learning topics confidence evaluation
 
@@ -132,14 +132,14 @@ Focus on the 🔴 red-rated topics first to fill in the gaps in your knowledge. 
 
 - **Git and GitHub**
 
-  - Syntax.fm Git fundamentals podcast: https://syntax.fm/show/286/git-fundamentals
-  - GitHub flow: https://docs.github.com/en/get-started/using-github/github-flow
+  - Syntax.fm Git fundamentals podcast: https://syntax.fm/show/286/git-fundamentals ✅
+  - GitHub flow: https://docs.github.com/en/get-started/using-github/github-flow ✅
 
 - **Async JavaScript and JavaScript promises**
 
-  - Javascript.info - The Modern JavaScript Tutorial - Promise basics - https://javascript.info/promise-basics
-  - Javascript.info - The Modern JavaScript Tutorial - Error handling with promises - https://javascript.info/promise-error-handling
+  - Javascript.info - The Modern JavaScript Tutorial - Promise basics - https://javascript.info/promise-basics ✅
+  - Javascript.info - The Modern JavaScript Tutorial - Error handling with promises - https://javascript.info/promise-error-handling ✅
 
 - **Async/Await**
-  - Javascript.info - The Modern JavaScript Tutorial - Async/await - https://javascript.info/async-await
-  - Async + Await YouTube video by Wes Bos - https://www.youtube.com/watch?v=9YkUCxvaLEk
+  - Javascript.info - The Modern JavaScript Tutorial - Async/await - https://javascript.info/async-await ✅
+  - Async + Await YouTube video by Wes Bos - https://www.youtube.com/watch?v=9YkUCxvaLEk ✅
